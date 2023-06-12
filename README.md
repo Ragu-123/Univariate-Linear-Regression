@@ -41,7 +41,7 @@ py.show()
 
 ```
 ## Output
-![image](https://github.com/Ragu-123/Univariate-Linear-Regression/assets/113915622/8e7d38d8-3414-4f9b-8578-60df71efa744)
+![image](https://github.com/Ragu-123/Univariate-Linear-Regression/assets/113915622/2611971a-20f7-432c-82d0-00f7c080e75c)
 
 
 ## Result
